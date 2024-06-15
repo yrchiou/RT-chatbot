@@ -1,7 +1,5 @@
 # RT-chatbot
 
-# Radiation Oncology Department Health Education Robot
-
 ## Introduction
 This project introduces a health education robot for the Radiation Oncology Department. The need for this robot arises from the desire to provide 24/7 service and to bring healthcare closer to patients.
 
